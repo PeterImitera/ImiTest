@@ -1,0 +1,22 @@
+{
+    "name": "com.PeterImitera.ImiTest",
+    "displayName": "First test package",
+    "version": "0.0.1",
+    "unity": "6000.0",
+    "description": "A test package created just for test by Peter",
+    "keywords": [],
+    "category": "",
+    "author": {
+      "name": "PeterImitera",
+      "email": "peter.sall@imitera.com",
+      "url": "https://github.com/PeterImitera/ImiTest/tree/main"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/PeterImitera/ImiTest.git",
+      "directory": "com.PeterImitera.ImiTest"
+    },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@PeterImitera"
+    }
+  }
